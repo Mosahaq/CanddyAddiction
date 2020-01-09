@@ -15,6 +15,17 @@
 		E4DC4E0923A00206002B0357 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4DC4E0723A00206002B0357 /* LaunchScreen.storyboard */; };
 		E4DC4E1423A00206002B0357 /* CanddyAddictionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4DC4E1323A00206002B0357 /* CanddyAddictionTests.swift */; };
 		E4DC4E1F23A00206002B0357 /* CanddyAddictionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4DC4E1E23A00206002B0357 /* CanddyAddictionUITests.swift */; };
+		E4DC4E3023A14F17002B0357 /* CandyMusic in Resources */ = {isa = PBXBuildFile; fileRef = E4DC4E2F23A14F17002B0357 /* CandyMusic */; };
+		E4DC4E3323A15011002B0357 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4DC4E3223A15011002B0357 /* AVFoundation.framework */; };
+		E4DC4E3523A1566E002B0357 /* Captive_Portal_-_04_-_A_Candy_Addiction (1).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E4DC4E3423A1566E002B0357 /* Captive_Portal_-_04_-_A_Candy_Addiction (1).mp3 */; };
+		E4DC4E3F23A328F2002B0357 /* CanddyAddiction.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4DC4E3E23A328F2002B0357 /* CanddyAddiction.swift */; };
+		E4DC4E4123A32E59002B0357 /* NaturalSound.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4DC4E4023A32E59002B0357 /* NaturalSound.swift */; };
+		E4DC4E4323A331B8002B0357 /* GalaxyBrains.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4DC4E4223A331B8002B0357 /* GalaxyBrains.swift */; };
+		E4DC4E4523A336D2002B0357 /* GameCube.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E4DC4E4423A336D2002B0357 /* GameCube.mp3 */; };
+		E4DC4E4723A3E0F7002B0357 /* InnerPeace.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E4DC4E4623A3E0F7002B0357 /* InnerPeace.mp3 */; };
+		E4DC4E4923A3E1BA002B0357 /* inner-peace.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E4DC4E4823A3E1B9002B0357 /* inner-peace.jpg */; };
+		E4DC4E4B23A3E666002B0357 /* sugaraddiction2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E4DC4E4A23A3E666002B0357 /* sugaraddiction2.jpg */; };
+		E4DC4E4D23A3E6D9002B0357 /* d89.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E4DC4E4C23A3E6D8002B0357 /* d89.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +60,19 @@
 		E4DC4E1A23A00206002B0357 /* CanddyAddictionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CanddyAddictionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4DC4E1E23A00206002B0357 /* CanddyAddictionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanddyAddictionUITests.swift; sourceTree = "<group>"; };
 		E4DC4E2023A00206002B0357 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4DC4E2D23A003D4002B0357 /* Reglisse_Back.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Reglisse_Back.otf; sourceTree = "<group>"; };
+		E4DC4E2E23A0042B002B0357 /* Reglisse.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Reglisse.otf; sourceTree = "<group>"; };
+		E4DC4E2F23A14F17002B0357 /* CandyMusic */ = {isa = PBXFileReference; lastKnownFileType = file; path = CandyMusic; sourceTree = "<group>"; };
+		E4DC4E3223A15011002B0357 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		E4DC4E3423A1566E002B0357 /* Captive_Portal_-_04_-_A_Candy_Addiction (1).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Captive_Portal_-_04_-_A_Candy_Addiction (1).mp3"; path = "../../../../Downloads/Captive_Portal_-_04_-_A_Candy_Addiction (1).mp3"; sourceTree = "<group>"; };
+		E4DC4E3E23A328F2002B0357 /* CanddyAddiction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanddyAddiction.swift; sourceTree = "<group>"; };
+		E4DC4E4023A32E59002B0357 /* NaturalSound.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaturalSound.swift; sourceTree = "<group>"; };
+		E4DC4E4223A331B8002B0357 /* GalaxyBrains.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalaxyBrains.swift; sourceTree = "<group>"; };
+		E4DC4E4423A336D2002B0357 /* GameCube.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = GameCube.mp3; path = ../../../../Downloads/GameCube.mp3; sourceTree = "<group>"; };
+		E4DC4E4623A3E0F7002B0357 /* InnerPeace.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = InnerPeace.mp3; path = ../../../../Downloads/InnerPeace.mp3; sourceTree = "<group>"; };
+		E4DC4E4823A3E1B9002B0357 /* inner-peace.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "inner-peace.jpg"; path = "../../../../Downloads/inner-peace.jpg"; sourceTree = "<group>"; };
+		E4DC4E4A23A3E666002B0357 /* sugaraddiction2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sugaraddiction2.jpg; path = ../../../../Downloads/sugaraddiction2.jpg; sourceTree = "<group>"; };
+		E4DC4E4C23A3E6D8002B0357 /* d89.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = d89.jpg; path = ../../../../Downloads/d89.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4DC4E3323A15011002B0357 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,10 +104,12 @@
 		E4DC4DF023A00200002B0357 = {
 			isa = PBXGroup;
 			children = (
+				E4DC4E2C23A00224002B0357 /* Music */,
 				E4DC4DFB23A00200002B0357 /* CanddyAddiction */,
 				E4DC4E1223A00206002B0357 /* CanddyAddictionTests */,
 				E4DC4E1D23A00206002B0357 /* CanddyAddictionUITests */,
 				E4DC4DFA23A00200002B0357 /* Products */,
+				E4DC4E3123A15010002B0357 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,11 +126,23 @@
 		E4DC4DFB23A00200002B0357 /* CanddyAddiction */ = {
 			isa = PBXGroup;
 			children = (
+				E4DC4E4823A3E1B9002B0357 /* inner-peace.jpg */,
+				E4DC4E4423A336D2002B0357 /* GameCube.mp3 */,
+				E4DC4E4623A3E0F7002B0357 /* InnerPeace.mp3 */,
+				E4DC4E3423A1566E002B0357 /* Captive_Portal_-_04_-_A_Candy_Addiction (1).mp3 */,
+				E4DC4E2F23A14F17002B0357 /* CandyMusic */,
 				E4DC4DFC23A00200002B0357 /* AppDelegate.swift */,
 				E4DC4DFE23A00200002B0357 /* SceneDelegate.swift */,
 				E4DC4E0023A00200002B0357 /* ViewController.swift */,
 				E4DC4E0223A00200002B0357 /* Main.storyboard */,
+				E4DC4E4023A32E59002B0357 /* NaturalSound.swift */,
+				E4DC4E4223A331B8002B0357 /* GalaxyBrains.swift */,
+				E4DC4E3E23A328F2002B0357 /* CanddyAddiction.swift */,
+				E4DC4E4A23A3E666002B0357 /* sugaraddiction2.jpg */,
 				E4DC4E0523A00206002B0357 /* Assets.xcassets */,
+				E4DC4E4C23A3E6D8002B0357 /* d89.jpg */,
+				E4DC4E2D23A003D4002B0357 /* Reglisse_Back.otf */,
+				E4DC4E2E23A0042B002B0357 /* Reglisse.otf */,
 				E4DC4E0723A00206002B0357 /* LaunchScreen.storyboard */,
 				E4DC4E0A23A00206002B0357 /* Info.plist */,
 			);
@@ -126,6 +165,21 @@
 				E4DC4E2023A00206002B0357 /* Info.plist */,
 			);
 			path = CanddyAddictionUITests;
+			sourceTree = "<group>";
+		};
+		E4DC4E2C23A00224002B0357 /* Music */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Music;
+			sourceTree = "<group>";
+		};
+		E4DC4E3123A15010002B0357 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E4DC4E3223A15011002B0357 /* AVFoundation.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,8 +287,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4DC4E0923A00206002B0357 /* LaunchScreen.storyboard in Resources */,
+				E4DC4E4523A336D2002B0357 /* GameCube.mp3 in Resources */,
 				E4DC4E0623A00206002B0357 /* Assets.xcassets in Resources */,
 				E4DC4E0423A00200002B0357 /* Main.storyboard in Resources */,
+				E4DC4E4723A3E0F7002B0357 /* InnerPeace.mp3 in Resources */,
+				E4DC4E4923A3E1BA002B0357 /* inner-peace.jpg in Resources */,
+				E4DC4E3023A14F17002B0357 /* CandyMusic in Resources */,
+				E4DC4E4D23A3E6D9002B0357 /* d89.jpg in Resources */,
+				E4DC4E3523A1566E002B0357 /* Captive_Portal_-_04_-_A_Candy_Addiction (1).mp3 in Resources */,
+				E4DC4E4B23A3E666002B0357 /* sugaraddiction2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,7 +322,10 @@
 			files = (
 				E4DC4E0123A00200002B0357 /* ViewController.swift in Sources */,
 				E4DC4DFD23A00200002B0357 /* AppDelegate.swift in Sources */,
+				E4DC4E4323A331B8002B0357 /* GalaxyBrains.swift in Sources */,
 				E4DC4DFF23A00200002B0357 /* SceneDelegate.swift in Sources */,
+				E4DC4E4123A32E59002B0357 /* NaturalSound.swift in Sources */,
+				E4DC4E3F23A328F2002B0357 /* CanddyAddiction.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
